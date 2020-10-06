@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "App-3/package-lock.json": true,
+    "App-3/e2e": true,
+    "App-3/ionic.config.json": true,
+    "**/*.spec": true,
+    "**/*.spec.*": true,
+    "App-3/www": true,
+    "App-3/src/zone-flags.ts": true,
+    "App-3/src/test.ts": true,
+    "App-3/src/main.ts": true,
+    "App-3/src/polyfills.ts": true,
+    "App-3/src/environments": true,
+    "App-3/browserslist": true,
+    "App-3/src/index.html": true,
+    ".env": true,
+    "App-3/ios": true
+  }
+}

@@ -1,0 +1,8 @@
+**/.autoenv.d
+**/.autoenv
+
+**/.DS_Store
+
+**/node_modules
+App-3/www
+App-3/ios
